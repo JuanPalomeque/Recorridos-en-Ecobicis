@@ -1,6 +1,6 @@
 ﻿# Recorridos en Ecobici
 
-TP de Analisis de Datos - EDA y preprocesamiento del dataset de recorridos de Ecobici (Buenos Aires, 2024).
+TP de Análisis de Datos - EDA y preprocesamiento del dataset de Recorridos de Ecobici (Buenos Aires, 2024).
 
 ## Datos
 
