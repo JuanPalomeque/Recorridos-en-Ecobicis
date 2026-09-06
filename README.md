@@ -1,6 +1,12 @@
-﻿# Recorridos en Ecobici
+﻿# Actividad Grupal 2
 
-TP de Análisis de Datos - EDA y preprocesamiento del dataset de Recorridos de Ecobici (Buenos Aires, 2024).
+Identificar características generales del dataset seleccionado
+
+Integrantes:
+
+Tomas Moretti
+Juan Palomeque 
+Juan Pablo Alegre 
 
 
 ## Datos
